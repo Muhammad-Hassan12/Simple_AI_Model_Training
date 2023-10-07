@@ -8,4 +8,4 @@ The Main file in which I trained the model is "Simple AI Model Training.ipynb"!
 ## Trained Model
 The product of the main file is this Pre-trained Model "Iris_classifier_knn.joblib"! This model (that I have trained) has the efficiency of "95.55%"!
 ## Disclaimer!
-The efficiency of model varies from PC to PC and even after following the exact steps you may not get the same result! (You may get higher or lower effciency than the model I have showed you!)
+The efficiency of model varies from PC to PC and even after following the exact same steps you may not get the same result! (You may get higher or lower effciency than the model I have showed you!)
